@@ -7,7 +7,10 @@
 <h5 align="center">Criar um micro-serviço que receba requisições HTTP no formato REST que receba como parâmetro o nome de uma cidade ou uma combinação de latitude e longitude e retorne uma sugestão de playlist (array com o título das músicas) de acordo com a temperatura atual da cidade.</h5>
 
 # Ferramentas usadas
-
+ * [Node.js](https://nodejs.org/en/)
+ * [Insomnia](https://insomnia.rest/download/)
+ * [OpenWeatherMaps](https://openweathermap.org/current)
+ * [Typescript]
 
 # Como rodar
 ```
