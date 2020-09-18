@@ -10,7 +10,7 @@
  * [Node.js](https://nodejs.org/en/)
  * [Insomnia](https://insomnia.rest/download/)
  * [OpenWeatherMaps](https://openweathermap.org/current)
- * [Typescript]
+ * Typescript
 
 # Como rodar
 ```
